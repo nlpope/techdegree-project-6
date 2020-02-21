@@ -18,18 +18,16 @@ None
 
 ### Installing
 
-Terminal:
-
-nodemon: 'npm install -g nodemon'
+Terminal - nodemon: 'npm install -g nodemon'
 https://www.npmjs.com/package/nodemon
 
 ## Deployment
 
-Clone the project - (https://github.com/nlpope/techdegree-project-6) - and in a terminal, install nodemon.
+Clone the project - (https://github.com/nlpope/techdegree-project-6) - in a terminal, cd into the cloned folder and type 'npm install' to install all the dependencies.
 
-Once that's done, cd into the 'techdegree-project-6' folder - you should be able to run using terminal command 'nodemon app.js'. You should get a message that reads 'The application is running on localhost:3000!'
+You should then be able to run using the terminal command 'node app.js'. A message that reads 'The application is running on localhost:3000!' should be displayed under your input.
 
-In a browser, navigate to 'http://localhost:3000/' and enjoy!
+Finally; In a browser, navigate to 'http://localhost:3000/' and enjoy!
 
 ## Built With
 
