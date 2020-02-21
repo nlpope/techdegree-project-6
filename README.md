@@ -18,24 +18,32 @@ None
 
 ### Installing
 
-Nothing to install, unless you are running an older browser. If that is the case, please install an updated browser version.
+Terminal:
+
+nodemon: 'npm install -g nodemon'
+https://www.npmjs.com/package/nodemon
 
 ## Deployment
 
-Clone the project - (https://github.com/nlpope/techdegree-project-1) - and open up the index.html file and try it out!
+Clone the project - (https://github.com/nlpope/techdegree-project-6) - and in a terminal, install nodemon.
+
+Once that's done, cd into the 'techdegree-project-6' folder - you should be able to run using terminal command 'nodemon app.js'. You should get a message that reads 'The application is running on localhost:3000!'
+
+In a browser, navigate to 'http://localhost:3000/' and enjoy!
 
 ## Built With
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The web programming language used
+- [Pug/Jade](https://pugjs.org/api/getting-started.html) - The templating language used
 
 ## Authors
 
-- **Noah Pope** - _JavaScript code_
+- **Noah Pope** - _JavaScript & Pug code_
 - **TreeHouse** - _HTML & CSS code_ - (https://teamtreehouse.com)
 
 ## License
 
-Copyright (c) 2020 by Noah Pope (https://github.com/nlpope/techdegree-project-1)
+Copyright (c) 2020 by Noah Pope (https://github.com/nlpope/techdegree-project-6)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
