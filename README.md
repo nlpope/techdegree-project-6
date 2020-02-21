@@ -15,7 +15,9 @@ Enjoy, you curious feline.
 ### Extras
 
 changed p font family to Georgia Serif
+
 Changed font colors
+
 Changed background color
 
 ### Installing
