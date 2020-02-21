@@ -1,0 +1,97 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project_name": "A Random Quote Generator",
+      "description": "Feeling uninspired? Fan of NBC's Parks & Recreation?! Then this is the app for you! Once you click 'Show another quote' a new, most likely Parks & Rec, quote will appear onscreen.",
+      "technologies": ["HTML5", "CSS3", "JavaScript"],
+      "live_link": "https://nlpope.github.io/techdegree-project-1/",
+      "github_link": "https://github.com/nlpope/techdegree-project-1.git",
+      "image_urls": [
+        "/static/img/0quote0.png",
+        "/static/img/0quote1.png",
+        "/static/img/0quote2.png",
+        "/static/img/0quote3.png"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "List Pagination and Filtering",
+      "description": "Tired of that endless, single protege list? This app takes that very list and, through pagination techniques, divides them into manageable chunks! To cycle through, click the desired page number in the nav bar below.",
+      "technologies": ["HTML5", "CSS3", "JavaScript"],
+      "live_link": "https://nlpope.github.io/techdegree-project-2/",
+      "github_link": "https://github.com/nlpope/techdegree-project-2.git",
+      "image_urls": [
+        "/static/img/1nav0.png",
+        "/static/img/1nav1.png",
+        "/static/img/1nav2.png",
+        "/static/img/1nav3.png"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "Interactive Registration Form",
+      "description": "Want to sign up for my fictional, made-up, imaginary dev conference?! Thought so, open this up in a browser and fill out the required fields. Don't worry, I'll let you know if a necessary field has been mistyped or left blank.",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "JQuery"],
+      "live_link": "https://nlpope.github.io/techdegree-project-3/",
+      "github_link": "https://github.com/nlpope/techdegree-project-3.git",
+      "image_urls": [
+        "/static/img/2register0.png",
+        "/static/img/2register1.png",
+        "/static/img/2register2.png",
+        "/static/img/2register3.png"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "OOP Game Show App",
+      "description": "Shall we play a game?! Once you click 'Start Game' try your luck out and guess the phrase, either via keyboard or selecting an onscreen key. I will give you five chances to do so before I call it quits!",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "Animate.css"],
+      "live_link": "https://nlpope.github.io/techdegree-project-4/",
+      "github_link": "https://github.com/nlpope/techdegree-project-4.git",
+      "image_urls": [
+        "/static/img/3phrase0.png",
+        "/static/img/3phrase1.png",
+        "/static/img/3phrase2.png",
+        "/static/img/3phrase3.png"
+      ]
+    },
+    {
+      "id": 5,
+      "project_name": "Public API Requests",
+      "description": "Sick and tired of your outdated, boring to look at employee directory?! Of course you are! Feel free to use this as a template to liven up how you sift through your valubable teammates!",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "JQuery",
+        "JSON",
+        "Fetch API",
+        "Random User Generator API",
+        "Animate.css"
+      ],
+      "live_link": "https://nlpope.github.io/techdegree-project-5/",
+      "github_link": "https://github.com/nlpope/techdegree-project-5.git",
+      "image_urls": [
+        "/static/img/4directory0.png",
+        "/static/img/4directory1.png",
+        "/static/img/4directory2.png",
+        "/static/img/4directory3.png"
+      ]
+    },
+    {
+      "id": 6,
+      "project_name": "Tea With Iroh",
+      "description": "Feeling uninspired? Fan of Nickelodeon's 'Avatar - The Last Airbender'?! Then this is the app for you! Once Iroh is clicked, a new quote of his will appear in the onscreen text bubble.",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "JQuery"],
+      "live_link": "https://nlpope.github.io/tea-with-iroh//",
+      "github_link": "https://github.com/nlpope/tea-with-iroh.git",
+      "image_urls": [
+        "/static/img/5tea0.png",
+        "/static/img/5tea1.png",
+        "/static/img/5tea2.png",
+        "/static/img/5tea3.png"
+      ]
+    }
+  ]
+}
